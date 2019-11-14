@@ -1,0 +1,19 @@
+{
+    "name": "shaonian820\/shaonian-junit-laravel",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shaonian820",
+            "email": "862083088@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shaonian820\\ShaonianJunitLaravel\\": "src"
+        }
+    }
+},
