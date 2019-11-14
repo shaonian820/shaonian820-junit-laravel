@@ -15,5 +15,12 @@
         "psr-4": {
             "Shaonian820\\ShaonianJunitLaravel\\": "src"
         }
+    },
+	"extra":{
+        "laravel":{
+            "providers":[
+                "Shaonian820\\ShaonianJunitLaravel\\Providers\\SjunitServiceProvider"
+            ]
+        }
     }
 }

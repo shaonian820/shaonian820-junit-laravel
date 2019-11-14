@@ -5,7 +5,7 @@
 
 #安装方法
     composer require "shaonian820/shaonian-junit-laravel"
-
+   
 
 # 路由解释:
     //访问此组件首页
