@@ -1,7 +1,5 @@
 #shaonian-junit-laravel
 
-这里是对于框架的介绍
-
 #对于框架的要求:
     laravel >= 5.8 & php >= 7.2
 
